@@ -1,23 +1,25 @@
+# Project 1 | Week 1 | Group 7
+
+
 ![Alt text](enterprise-eth.d2a3f314.png)
 
-# Assignment submission page
-
-Group 7 Team Members :
+### <p style="color:orange">Team Members :</p>
 
 | Full Name       |  PUID  | Github username                              |
-| :--------------- | :----: | -------------------------------------------- |
+| --------------- | :----: | -------------------------------------------- |
 | Oladipo Evangel | fpLXIV | [@Evangel190](https://github.com/Evangel90)  |
 | Victor Ukaegbu  | 4khHVL | [@victor-uk](https://github.com/victor-uk)   |
 | Mario Youssef   | KyhHYQ | [@MariooY2](https://github.com/MariooY2)     |
 | Tamir Omara     | Mganbg | [@tamiromara](https://github.com/tamiromara) |
 
-### Motivation behind this repo :
+
+### <p style="color:orange">Motivation behind this repo :</p>
 
 1. Learn how to interact with git and Github platform.
-2. Build a team relationship that will help us become productive as we progress into the bootcamp.
-3. showcase what we have learned during projects.
+2. Build a team relationship that will help us achieve more as a unit going into the bootcamp.
+3. showcase what we have learned during the project to improve our Github profile.
 
-### Assignement requirements :
+### <p style="color:orange">Assignement requirements :</p>
 
 The requirements were detailed [here](https://encodeclub.notion.site/EVM-Bootcamp-Q4-2024-84ef51c6eb20450f8100729c2df48329) by the encode.club team.
 
@@ -25,7 +27,7 @@ The requirements were detailed [here](https://encodeclub.notion.site/EVM-Bootcam
 - Interact with “HelloWorld.sol” within your group to change message strings and change owners
 - Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed.
 
-### Topics covered during the first week of the bootcamp :
+### <p style="color:orange">Topics covered during the first week of the bootcamp :</p>
 
 Day 01 :
 
