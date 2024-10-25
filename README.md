@@ -1,4 +1,4 @@
-# Project 1 | Week 1 | Group 7
+<h1 align=center>Project 1 | Week 1 | Group 7 </h1>
 
 
 ![Alt text](enterprise-eth.d2a3f314.png)
@@ -59,3 +59,6 @@ Day 04 :
 - External calls
 - Using interfaces
 - Contract interaction
+
+<br><br>
+[🔝 back to top](#Project)
