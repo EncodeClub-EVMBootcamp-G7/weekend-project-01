@@ -1,9 +1,16 @@
 <h1 align=center>Project1</h1>
 
-
 ![Alt text](enterprise-eth.d2a3f314.png)
 
-### <p style="color:orange">Team Members :</p>
+### Week 2 | Assignement requirements :
+
+The requirements were detailed [here](https://encodeclub.notion.site/EVM-Bootcamp-Q4-2024-84ef51c6eb20450f8100729c2df48329) by the encode.club team as follows :
+
+1. Form groups of 3 to 5 students [⤵️](#team-members-)
+2. Interact with “[HelloWorld.sol](HelloWorld.sol)” within your group to change message strings and change owners [⤵️](#sepolia-etherscan-team-interaction-screenshot-)
+3. Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed [⤵️](#report-)
+
+### Team Members :
 
 | Full Name       |  PUID  | Github username                              |
 | --------------- | :----: | -------------------------------------------- |
@@ -12,53 +19,20 @@
 | Mario Youssef   | KyhHYQ | [@MariooY2](https://github.com/MariooY2)     |
 | Tamir Omara     | Mganbg | [@tamiromara](https://github.com/tamiromara) |
 
+### Sepolia Etherscan Team Interaction Screenshot :
 
-### <p style="color:orange">Motivation behind this repo :</p>
+![Alt text](team7-interaction-screenshot.png)
 
-1. Learn how to interact with git and Github platform.
-2. Build a team relationship that will help us achieve more as a unit going into the bootcamp.
-3. showcase what we have learned during the project to improve our Github profile.
+### Report :
 
-### <p style="color:orange">Assignement requirements :</p>
-
-The requirements were detailed [here](https://encodeclub.notion.site/EVM-Bootcamp-Q4-2024-84ef51c6eb20450f8100729c2df48329) by the encode.club team.
-
-- Form groups of 3 to 5 students
-- Interact with “HelloWorld.sol” within your group to change message strings and change owners
-- Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed.
-
-### <p style="color:orange">Topics covered during the first week of the bootcamp :</p>
-
-Day 01 :
-
-- Wallets and transactions
-- How ethereum works
-- Trying it out
-- Contract interaction: Token Swap
-- Hands on - Remix
-- Coding HelloWorld.sol
-- Compiling and deploying
-
-Day 02 :
-
-- Coding HelloWorld.sol
-- Detailed contract structure
-- Contract interaction
-- Clean code and documentation
-
-Day 03 :
-
-- Function definition
-- Variable declaration and definition
-- Exercises
-- Common Solidity Global Variables
-- Assertion and Modifiers
-
-Day 04 :
-
-- External calls
-- Using interfaces
-- Contract interaction
-
-<br><br>
-[🔝 back to top](#Project1)
+| Action                      | By                    | TX Hash                                                            | TX Details |
+| :-------------------------- | :-------------------- | :----------------------------------------------------------------- | :--------: |
+| Contract Created            | Tamir                 | 0x74483c54665ac108525c6fcaba7d084ffb2be07b587aad188d165edf9d27d535 |    link    |
+| setText ( ) Function Called | Tamir                 | 0xea6e5b01186cfaf3ee39836948bfb02625dc09696e664c198dc7f3027a13ab1f |    link    |
+| Ownership Transfered        | Tamir - to - Mario    | 0x6af9796cc945732164ab8eece5400172e3839ab5fae3f8d34a5936590e883f2d |    link    |
+| setText ( ) Function Called | Mario                 | 0x29f53c65c7f842a49c118e36918f14276342a39f75b97ec2e911c059b8c31401 |    link    |
+| Ownership Transfered        | Mario - to - Oladipo  | 0xb1cff1732ed06d72146168fb775f79cda7c34cf22f855fe9da8d97aec17b7eff |    link    |
+| setText ( ) Function Called | Oladipo               | 0x24b750a68a4386b4d327fa95cd8af818a49282689312bb22ad3b59837ce06853 |    link    |
+| Ownership Transfered        | Oladipo - to - Victor | 0xfe31fd4ae7430e5dc730031365b25fff43a350d7668081f88c2137b4559a8111 |    link    |
+| setText ( ) Function Called | Victor                | 0x373c2a212370b322c22c3ce6df4432b0eeff35e06e211d3813235a33658caab4 |    link    |
+| Ownership Transfered        | Victor - to - Tamir   |                                                                    |    link    |
