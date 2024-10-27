@@ -14,8 +14,8 @@ The requirements were detailed [here](https://encodeclub.notion.site/EVM-Bootcam
 
 ## Team Members :
 
-| Full Name       |  PUID  | Github username                              |
-| --------------- | :----: | -------------------------------------------- |
+| Full Name       |  PUID  | Github @username                              |
+| --------------- | ----   | -------------------------------------------- |
 | Oladipo Evangel | fpLXIV | [@Evangel190](https://github.com/Evangel90)  |
 | Victor Ukaegbu  | 4khHVL | [@victor-uk](https://github.com/victor-uk)   |
 | Mario Youssef   | KyhHYQ | [@MariooY2](https://github.com/MariooY2)     |
