@@ -2,7 +2,7 @@
 
 ![Alt text](enterprise-eth.d2a3f314.png)
 
-## Assignement requirements :
+## Project requirements :
 
 The requirements were detailed [here](https://encodeclub.notion.site/EVM-Bootcamp-Q4-2024-84ef51c6eb20450f8100729c2df48329) by the encode.club team as follows :
 
