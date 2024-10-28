@@ -1,8 +1,8 @@
-# Project 1 | EVM Bootcamp
-
 ![Alt text](enterprise-eth.d2a3f314.png)
 
-## Project requirements :
+# Project 1 | EVM Bootcamp
+
+## Requirements :
 
 The requirements were detailed [here](https://encodeclub.notion.site/EVM-Bootcamp-Q4-2024-84ef51c6eb20450f8100729c2df48329) by the encode.club team as follows :
 
